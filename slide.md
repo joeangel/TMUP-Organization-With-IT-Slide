@@ -4,9 +4,9 @@ output: index.html
 --
 
 <h1 style="font-size: 72px">
-  歡迎來到 社團經營的資訊應用
-  </h1>
-  <br />
+社團經營的資訊應用
+</h1>
+<br />
 
 ## Joe Angel
 ## 2015/01/11
@@ -17,13 +17,13 @@ output: index.html
 
 <br />
 <h2 style="font-size: 60px">
-  <b>Joe Angel</b>
+<b>Joe Angel</b>
 </h2>
 
 <div align="center">
 <img src="./img/joeangel.tw.jpg" />
 </div>
-## <a href="http://about.me/joeangel.tw" target="_blank">About me</a>
+
 ## <a href="http://joeangel.tw" target="_blank">http://JoeAngel.tw</a>
 
 --
@@ -52,3 +52,4 @@ output: index.html
 <h2 style="font-size: 18px">
 本投影片採用<a href="http://creativecommons.org/licenses/by-sa/3.0/tw/" target="_blank">創用 CC「姓名標示—相同方式分享 3.0 台灣」授權條款</a>
 </h2>
+
