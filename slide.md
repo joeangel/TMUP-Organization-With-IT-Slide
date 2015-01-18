@@ -412,6 +412,23 @@ Think with IT.<br /><br />Gain IT skills.
 
 --
 
+### 2. 資料視覺化
+
+<br />
+<h2 style="font-size: 60px">
+其他參考資料
+</h2>
+
+* <a href="http://g0v.tw/" target="_blank" style="font-size:18px">g0v</a>
+* <a href="http://env.g0v.tw/air/" target="_blank" style="font-size:18px">懸浮微粒</a>
+* <a href="http://er.mohw.g0v.tw/#/dashboard/file/default.json" target="_blank" style="font-size:18px">急重症病床</a>
+* <a href="http://muyueh.com/30/xinzhu_traffic/" target="_blank" style="font-size:18px">新竹市車禍統計</a>
+* <a href="http://muyueh.com/30/top1000/scale_en.html#srt=rvn&view=viewtree" target="_blank" style="font-size:18px">台灣100大企業</a>
+* <a href="" target="_blank" style="font-size:18px">g0v</a>
+* <a href="http://buzzorange.com/techorange/2014/06/10/30-simple-tools-for-data-visualization/" target="_blank" style="font-size:18px">資料視覺化工具</a>
+
+--
+
 ### Summary
 
 <br />
